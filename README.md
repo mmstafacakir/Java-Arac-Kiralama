@@ -1,2 +1,0 @@
-# NesneProgLabProje
-Araç kiralama otomasyonu
